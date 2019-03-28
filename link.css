@@ -1,0 +1,90 @@
+body {
+	font-family: 'Germania One', cursive;
+font-family: 'Fredericka the Great', cursive;
+background-color: pink;
+      }
+.hm{ position: absolute;
+	 left: 60rem;
+	 top: 0.5;
+}
+
+
+
+.pj{ position: absolute;
+	 left: 64rem;
+	 top: 0.5;
+
+}
+
+.kk{ position: absolute;
+	 left: 70rem;
+	 top: 0.5;
+
+ }
+
+ .pp{
+	 position: absolute;
+	 left:76rem;
+	 top:0.5;
+ }
+
+.mimi{
+	background-color: pink;
+}
+
+.move-this{
+
+	float: right;
+	top: 5px;
+width: 400px;
+	border-radius: 100%;
+top: 15;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
